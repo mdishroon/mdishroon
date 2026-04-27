@@ -32,16 +32,8 @@
 
 ### Activity
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.shion.dev/api?username=mdishroon&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" width="400" />
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mdishroon&theme=github_dark_dimmed&hide_border=true&layout=compact" width="300" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.shion.dev/api?username=mdishroon&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" width="400" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mdishroon&theme=github_dark_dimmed&hide_border=true&layout=compact" width="300" />
 
 </div>
 
